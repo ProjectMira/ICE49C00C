@@ -81,7 +81,13 @@
       "BO": "None",
       "EN": "None",
       "ZH": "None"
-    }
+    },
+    "pecha_display_alignments": [
+      {
+        "root": "IE2B5AF4E/layers/5191/Tibetan_Segment-5457.json",
+        "translation": "opf/P3/ICE49C00C/layers/095C/Pecha_Display_Alignment_Segment-EE00.json"
+      }
+    ]
   },
   "bases": [
     {
